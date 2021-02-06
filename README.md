@@ -1,4 +1,4 @@
-# Deploying an Azure Linux VM with Nginx using Terraform
+# Deploying an Azure Debian or Ubuntu Linux VM with Nginx using Terraform
 
 Blog --> https://gmusumeci.medium.com/how-to-deploy-a-debian-or-ubuntu-linux-vm-with-nginx-in-azure-using-terraform-92f412c23db5
 

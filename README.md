@@ -1,5 +1,7 @@
 # Deploying an Azure Linux VM with Nginx using Terraform
 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-a-debian-or-ubuntu-linux-vm-with-nginx-in-azure-using-terraform-92f412c23db5
+
 Update the **source_image_reference** on this section of the **linux-vm-main.tf** file, to configure the distro and version of Linux.
 
 ```
